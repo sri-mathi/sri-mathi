@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning and Web Development**
 
-- 📫 How to reach me **srimathie.21aim@kongu.edu**
+- 📫 How to reach me **sri1722004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R3mSWhlXa1GvCxUelUzvdX5mWmhAfrRB/view?usp=drive_link](https://drive.google.com/file/d/1R3mSWhlXa1GvCxUelUzvdX5mWmhAfrRB/view?usp=drive_link)
 
