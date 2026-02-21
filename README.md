@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PetCognize - ChatAI**
 
-- 👨‍💻 All of my projects are available at [https://srimathie.netlify.app/](https://portfolio-srimathie.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://srimathie.netlify.app/](https://srimathie.netlify.app/)
 
 - 💬 Ask me about **Machine Learning and Web Development**
 
